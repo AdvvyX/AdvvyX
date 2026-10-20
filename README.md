@@ -1,13 +1,11 @@
 <div align="center">
 
-  <!-- Animacion de terminal -->
   <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=180&section=header&text=Carlos%20Alcantara&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20Developer&descSize=16&descAlignY=68&descAlign=50" width="100%" alt="Carlos Alcantara Header" />
 </div>
 
   <br />
 
-  <!-- Badges de Sistema -->
   <img src="https://img.shields.io/badge/OS-Debian_GNU%2FLinux-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Role-Full_Stack_Dev-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Dev" />
@@ -17,11 +15,9 @@
 ---
 
 <div>
-  <!-- Terminal a la izquierda -->
   <a href="https://ray.so/AWO0I7o">
     <img align="left" width="58%" src="./advvyx@debian_-~.svg" alt="advvyx Debian Terminal" />
   </a>
-  <!-- Cuadrícula 3x7 que cubre toda la altura derecha -->
   <div align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,py,java,react,vite,bootstrap,html,css,nodejs,mysql,postgres,mongodb,debian,linux,bash,git,github,docker,idea,vscode,postman&perline=3&theme=dark" alt="Skills" />
