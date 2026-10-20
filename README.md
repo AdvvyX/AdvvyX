@@ -1,108 +1,72 @@
-<h1 align="center">Carlos Alcantara</h1>
+<div align="center">
+
+  <!-- Animacion de terminal -->
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=180&section=header&text=Carlos%20Alcantara&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20Developer&descSize=16&descAlignY=68&descAlign=50" width="100%" alt="Carlos Alcantara Header" />
+</div>
+
+  <br />
+
+  <!-- Badges de Sistema -->
+  <img src="https://img.shields.io/badge/OS-Debian_GNU%2FLinux-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Dev-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Dev" />
+
+</div>
+
+---
+
+<div>
+  <!-- Terminal a la izquierda -->
+  <a href="https://ray.so/AWO0I7o">
+    <img align="left" width="58%" src="./advvyx@debian_-~.svg" alt="advvyx Debian Terminal" />
+  </a>
+  <!-- Cuadrícula 3x7 que cubre toda la altura derecha -->
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,py,java,react,vite,bootstrap,html,css,nodejs,mysql,postgres,mongodb,debian,linux,bash,git,github,docker,idea,vscode,postman&perline=3&theme=dark" alt="Skills" />
+    </a>
+  </div>
+</div>
+
+<br clear="both" />
+
+<br />
+
+
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=advvyx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=advvyx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### Live Activity & Presence
 
 <p align="center">
-  <em>Desarrollador de Plugins de Minecraft, Bots de Discord, Websites entre mas.</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AdvvyX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://discord.com">
+    <img src="https://lanyard.cnrad.dev/api/840216615755841606?bg=0d1117&border=30363d&borderRadius=14px&showTimestamp=true" alt="Discord Live Status" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31zvn4ugybtn7bvrn3k7rbplwc2m&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zvn4ugybtn7bvrn3k7rbplwc2m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false" alt="Spotify Currently Playing" />
+  </a>
 </p>
 
 ---
 
-### Sobre mi
+### Contact
 
-Desarrollo y publico plugins de Minecraft en **[GitHub](https://github.com/AdvvyX)** — tres plugins activos, **120+ descargas**, intento buscar soluciones a diferentes problemas
-
----
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdvvyX&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://edge-readme-stats.dancodes.online/langs?username=AdvvyX" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <b>6</b><br>
-      <sub>Repositorios</sub>
-    </td>
-    <td align="center" width="140">
-      <b>4</b><br>
-      <sub>Seguidores</sub>
-    </td>
-    <td align="center" width="140">
-      <b>34</b><br>
-      <sub>Contribuciones</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### Plugins
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>DiscordSync</b><br>
-      <a href="https://modrinth.com/plugin/discordsync"><img src="https://img.shields.io/modrinth/dt/7Rrf79Ft?color=00bd56&label=Descargas&style=flat-square"/></a>
-      <br><br>
-      <i>Conecta tu servidor de Minecraft con tu comunidad de Discord</i>
-      <br><br>
-      Vinculacion de cuentas con codigos de 6 digitos<br>
-      Sincronizacion de roles con LuckPerms en tiempo real<br>
-      Recompensas para boosters<br>
-      Comandos slash, webhooks y soporte multi-lang (EN/ES/TR)<br>
-      Funciona desde 1.13+
-    </td>
-    <td width="33%" valign="top">
-      <b>TagsKeeper</b><br>
-      <a href="https://modrinth.com/plugin/tagskeeper"><img src="https://img.shields.io/modrinth/dt/KSKmwW8h?color=00bd56&label=Descargas&style=flat-square"/></a>
-      <br><br>
-      <i>Un plugin de tags basico OpenSource</i>
-      <br><br>
-      Menu GUI's customizable<br>
-      Integracion con economia de Vault<br>
-      Soporte de PlaceholderAPI<br>
-      Colores HEX y permisos por tag<br>
-      Totalmente configurable desde YAML
-    </td>
-    <td width="33%" valign="top">
-      <b>TimerBlocks</b><br>
-      <a href="https://modrinth.com/plugin/timerblocks"><img src="https://img.shields.io/modrinth/dt/R7bbnN48?color=00bd56&label=Descargas&style=flat-square"/></a>
-      <br><br>
-      <i>Cuentas regresiva hecho por bloques.</i>
-      <br><br>
-      Para servidores de Minecraft<br>
-      Soporte de colores RGB
-    </td>
-  </tr>
-</table>
-
----
-
-### Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,python,github,vscode,idea" />
-</p>
-
-**Minecraft:** Spigot API · Paper · Purpur
-
-**Discord:** discord.js · discord.py
-
-**Web:** React · Node.js
-
-**Herramientas:** IntelliJ IDEA · VS Code
-
----
-
-<p align="center">
-  <i>Si te gusta algun repositorio mio, me ayudarias con una estrella <3 </i>
-</p>
+<div align="center">
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-advvyx-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:ikaridevelopment@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
