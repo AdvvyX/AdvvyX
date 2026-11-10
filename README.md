@@ -16,7 +16,7 @@
 
 <div>
   <a href="https://ray.so/AWO0I7o">
-    <img align="left" width="58%" src="./advvyx@debian_-~.svg" alt="advvyx Debian Terminal" />
+    <img align="left" width="58%" src="./advvyx@debian_-~ (2).svg" alt="advvyx Debian Terminal" />
   </a>
   <div align="center">
     <a href="https://skillicons.dev">
